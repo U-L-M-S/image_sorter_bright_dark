@@ -27,6 +27,18 @@ sudo apt install -y imagemagick bc
 sudo pacman -Syu imagemagick bc
 ```
 
+## Usage
+To use this script, you need to do three steps:
+1- clone
+`git clone https://github.com/U-L-M-S/bright-wallpaper-killer`
+2- move
+`mv bright-wallpaper-killer/killer.sh move/to/your/wallpapers/path`
+3- execute
+`./killer.sh`
+
+If you get any error like "**permission denied**" or something like this. Try to `chmod +x killer.sh`
+
+
 ## Tests
 This script was used and tested on `bash` and `zsh` shells
 
