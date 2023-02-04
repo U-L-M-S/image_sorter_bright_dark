@@ -28,7 +28,7 @@ sudo pacman -Syu imagemagick bc
 ```
 
 ## Usage
-To use this script, you need to do three steps:
+To use this script, you need to do three steps:\
 1- clone
 `git clone https://github.com/U-L-M-S/bright-wallpaper-killer` \
 2- move
