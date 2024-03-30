@@ -4,6 +4,7 @@ This Python script sorts images into "bright" and "dark" folders based on a comb
 
 This script was based on [imneonizer](https://github.com/imneonizer/How-to-find-if-an-image-is-bright-or-dark)
 
+[![Video Demo](https://img.youtube.com/vi/glYLESaa1RE/0.jpg)](https://www.youtube.com/watch?v=glYLESaa1RE)
 
 ## Requirements
 
